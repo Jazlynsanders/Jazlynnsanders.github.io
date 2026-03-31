@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello! My name is Jazlynn and I am a student at the University of Nebraska-Lincoln. This is my blog for my senior year coding class. Go Big Red!!!!!"
+  },
+  {
+    "objectID": "posts/husker-softball/index.html",
+    "href": "posts/husker-softball/index.html",
+    "title": "Nebraska Softball Deep Dive",
+    "section": "",
+    "text": "The Huskers Softball team is doing very well this season.\n\n\nCode\nlibrary(tidyverse)\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.2.0     ✔ readr     2.1.6\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.2     ✔ tibble    3.3.1\n✔ lubridate 1.9.4     ✔ tidyr     1.3.2\n✔ purrr     1.2.1     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\nHELLO"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "softballdatablog",
+    "section": "",
+    "text": "Nebraska Softball Deep Dive\n\n\n\nncaa\n\nnebraska\n\nsoftball\n\n\n\n\n\n\n\n\n\nDec 31, 2025\n\n\nTHIS IS YOUR NAME\n\n\n\n\n\nNo matching items"
+  }
+]
